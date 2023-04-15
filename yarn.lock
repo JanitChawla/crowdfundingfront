@@ -1668,7 +1668,7 @@
     "@tanstack/query-core" "4.29.1"
     use-sync-external-store "^1.2.0"
 
-"@thirdweb-dev/chains@0.1.11":
+"@thirdweb-dev/chains@^0.1.11", "@thirdweb-dev/chains@0.1.11":
   version "0.1.11"
   resolved "https://registry.npmjs.org/@thirdweb-dev/chains/-/chains-0.1.11.tgz"
   integrity sha512-cfZ6l0Mf/QBJZBWgAjPEGbCJOkqBuv1RdjK/JrKDJE01qdPSVOZ2IVmKqdqDXDDGIrJ103XgPZ0x+v1PCZkr9g==
